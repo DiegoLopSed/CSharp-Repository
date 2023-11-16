@@ -10,7 +10,7 @@ namespace MiPrimerProyecto //! Debe ser remplazado por el nombre de tu proyecto
 			
 			// TODO: Funcionalidad del codigo dentro de las llaves Main
 			
-			Console.Write("Press any key to continue . . . "); 
+			Console.Write("Press any key to continue . . . ");//! Evita cerrar automaticamente la ejecución esperando una tecla
 			Console.ReadKey(true);
 
 		} //? Fin llave Main
