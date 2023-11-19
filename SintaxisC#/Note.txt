@@ -4,4 +4,4 @@ Desde fundamentos básicos hasta características avanzadas,
 encuentra aquí una referencia rápida para mejorar tu comprensión y 
 productividad en el desarrollo con C#. 
 
-Por: Diego Lopez Sedeñp
+Por: Diego Lopez Sedeño
