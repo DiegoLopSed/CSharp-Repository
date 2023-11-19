@@ -1,0 +1,63 @@
+Dentro de esta carpeta encontrarás la sintaxis más básica
+ del uso de las estructuras de control if, elseif y switch.
+
+**If:** La estructura de control "if" permite evaluar una condición y 
+ejecutar acciones en caso de que la condición sea verdadera, y acciones 
+diferentes en caso de que no se cumpla. La condición se coloca entre paréntesis.
+
+if (condicion)
+{
+    // Acciones por verdadero
+}
+else
+{
+    // Acciones por falso
+}
+
+Se pueden evaluar múltiples condiciones utilizando operadores como AND (&&), OR (||), NOT (!), != y ==.
+
+**Elseif:** La estructura "elseif" permite evaluar casos adicionales a los manejados por "if". 
+En cada "elseif", se evalúa una condición, y si ninguna de las condiciones anteriores es verdadera, 
+se ejecutan las acciones dentro del "else".
+
+if (condicion)
+{
+    // Acciones por verdadero
+}
+else if (condicion2)
+{
+    // Acciones para otra condición
+}
+else if (condicion3)
+{
+    // Acciones para otra condición
+}
+else
+{
+    // Acciones si ninguna condición es verdadera
+}
+
+**Switch:** El uso de "switch" permite simplificar múltiples declaraciones "if" o "elseif", 
+reduciendo la redundancia y facilitando la comprensión del código.
+
+switch (condicion)
+{
+    case 1:
+        // Acciones para el caso 1
+        break;
+
+    case 2:
+        // Acciones para el caso 2
+        break;
+
+    case 3:
+        // Acciones para el caso 3
+        break;
+
+    default:
+        // Acciones por defecto si no coincide con ningún caso
+        break;
+}
+
+En el caso de "switch", se utiliza la palabra clave "break" para salir del bloque de 
+instrucciones correspondiente al "case" seleccionado.
