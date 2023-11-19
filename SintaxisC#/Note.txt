@@ -1,7 +1,9 @@
-Explora el mundo de C# con este repositorio que recopila y presenta
-de manera clara las sintaxis esenciales del lenguaje. 
-Desde fundamentos básicos hasta características avanzadas, 
-encuentra aquí una referencia rápida para mejorar tu comprensión y 
-productividad en el desarrollo con C#. 
+Explora el universo de C# a través de este repositorio, 
+que recopila y presenta de manera clara las sintaxis esenciales del lenguaje.
+Desde los fundamentos básicos hasta las características avanzadas, encontrarás 
+aquí una referencia rápida para mejorar tu comprensión y productividad en el desarrollo con C#.
 
-Por: Diego Lopez Sedeño
+Adéntrate en el conocimiento de la sintaxis y el manejo de C#, 
+que incluye el tratamiento de cadenas, la declaración de variables y el manejo de excepciones.
+
+Autor: Diego López Sedeño.
