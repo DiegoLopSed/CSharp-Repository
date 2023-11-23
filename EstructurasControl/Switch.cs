@@ -1,11 +1,9 @@
 using System;
-
 class Program
 {
     static void Main()
     {
         //! Estructura de control Switch
-
 
         //? Mensajes para que el usuario seleccione una opción
         Console.WriteLine("Selecciona una opción:");
