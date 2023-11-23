@@ -1,6 +1,6 @@
 using System;
 
-
+namespace MiPrimerProyecto
 {
     class Program
     {
@@ -20,9 +20,7 @@ using System;
                 Console.WriteLine(Base + " X " + i + " = " + Multiplo);
             }
 
-
             // Esperar a que el usuario presione una tecla antes de cerrar la aplicación
-
             Console.Write("Press any key to continue . . . ");
             Console.ReadKey(true);
 
