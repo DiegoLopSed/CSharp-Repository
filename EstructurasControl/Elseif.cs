@@ -1,14 +1,11 @@
 using System;
-
 namespace MiPrimerProyecto
 {
     class Program
     {
         public static void Main(string[] args)
         {
-
             //! Estructura de control Else If
-
             //! Solicitar al usuario que ingrese una calificación
             Console.Write("Ingresa tu calificación: ");
             int calificacion = Convert.ToInt32(Console.ReadLine());
@@ -38,7 +35,6 @@ namespace MiPrimerProyecto
 
             Console.Write("Press any key to continue . . . ");
             Console.ReadKey(true);
-
         }
     }
 }
