@@ -1,6 +1,4 @@
 using System;
-
-
 namespace MiPrimerProyecto
 {
     class Program
@@ -8,7 +6,6 @@ namespace MiPrimerProyecto
         static void Main()
         {
             //! Estructura de control Switch
-
             //? Mensajes para que el usuario seleccione una opción
             Console.WriteLine("Selecciona una opción:");
             Console.WriteLine("1. Saludo");
